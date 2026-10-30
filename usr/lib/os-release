@@ -1,0 +1,6 @@
+NAME="Lira OS"
+PRETTY_NAME="Lira OS"
+ID=lira
+BUILD_ID="lira-x86"
+ANSI_COLOR="0;35"
+
